@@ -4,7 +4,7 @@ const pokeneas = [
     nombre: 'Paisa Eléctrico',
     altura: 1.7,
     habilidad: 'Descarga de arepa',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/paisa-electrico.jpg',
+    imagen: 'https://imagespokenea.s3.us-east-1.amazonaws.com/1.png',
     fraseFilosofica: 'Pues ave maría pues, ¡la energía y la buena vibra siempre triunfan!'
   },
   {
@@ -12,7 +12,7 @@ const pokeneas = [
     nombre: 'Montañero Fuerte',
     altura: 2.1,
     habilidad: 'Fuerza de carriel',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/montanero-fuerte.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/2.png',
     fraseFilosofica: 'La montaña no se conquista, se vive con ella en armonía'
   },
   {
@@ -20,7 +20,7 @@ const pokeneas = [
     nombre: 'Acuatroyo',
     altura: 1.5,
     habilidad: 'Chorrito paisa',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/acuatroyo.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/3.png',
     fraseFilosofica: 'Como el agua que fluye por el río Medellín, nunca te detengas en tu camino'
   },
   {
@@ -28,7 +28,7 @@ const pokeneas = [
     nombre: 'Silletero Floral',
     altura: 1.8,
     habilidad: 'Lluvia de flores',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/silletero-floral.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/4.png',
     fraseFilosofica: 'De cada dificultad, florece una oportunidad'
   },
   {
@@ -36,7 +36,7 @@ const pokeneas = [
     nombre: 'Bandola Sónica',
     altura: 1.6,
     habilidad: 'Melodía guasca',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/bandola-sonica.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/5.png',
     fraseFilosofica: 'La música es el puente entre el alma y las estrellas'
   },
   {
@@ -44,7 +44,7 @@ const pokeneas = [
     nombre: 'Metro Volador',
     altura: 3.2,
     habilidad: 'Rapidez naranja',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/metro-volador.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/6.png',
     fraseFilosofica: 'Siempre avanza, pero nunca olvides de dónde vienes'
   },
   {
@@ -52,7 +52,7 @@ const pokeneas = [
     nombre: 'Orquidela',
     altura: 1.2,
     habilidad: 'Belleza natural',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/orquidela.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/7.png',
     fraseFilosofica: 'Lo más hermoso de la vida es lo que nace sin pretensiones'
   },
   {
@@ -60,7 +60,7 @@ const pokeneas = [
     nombre: 'Cafetero Místico',
     altura: 1.65,
     habilidad: 'Granos energéticos',
-    imagen: 'https://pokenea-bucket.s3.amazonaws.com/cafetero-mistico.jpg',
+    imagen: 'https://imagespokenea.s3.amazonaws.com/8.png',
     fraseFilosofica: 'En cada taza de café hay una historia que contar y un día por comenzar'
   }
 ];
